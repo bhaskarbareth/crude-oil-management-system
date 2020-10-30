@@ -1,0 +1,9 @@
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\bin\Debug\Crude Oil Management System.exe
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\bin\Debug\Crude Oil Management System.pdb
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude_Oil_Management_System.Form1.resources
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude_Oil_Management_System.Properties.Resources.resources
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude Oil Management System.csproj.GenerateResource.Cache
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude Oil Management System.exe
+c:\users\riddhi bareth\documents\visual studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude Oil Management System.pdb
+C:\Users\Riddhi Bareth\Documents\Visual Studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude Oil Management System.csprojAssemblyReference.cache
+C:\Users\Riddhi Bareth\Documents\Visual Studio 2010\Projects\Crude Oil Management System\Crude Oil Management System\obj\x86\Debug\Crude Oil Management System.csproj.CoreCompileInputs.cache
